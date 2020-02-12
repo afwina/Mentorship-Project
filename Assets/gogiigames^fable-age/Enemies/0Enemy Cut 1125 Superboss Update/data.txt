@@ -1,0 +1,15 @@
+SuperBoss_Shadow,-38,292,427,57,shadow/SuperBoss_Shadow.png
+SuperBoss_Dark_Soldier_Lv4,24,61,303,283,Superboss/SuperBoss_Dark_Soldier_Lv4.png
+SuperBoss_Cyclops_Lv3,55,34,208,308,Superboss/SuperBoss_Cyclops_Lv3.png
+SuperBoss_Lich_King_Lv2,21,3,314,335,Superboss/SuperBoss_Lich_King_Lv2.png
+SuperBoss_Troll_lv3,0,10,300,329,Superboss/SuperBoss_Troll_lv3.png
+SuperBoss_GolemG_lv3,21,46,310,295,Superboss/SuperBoss_GolemG_lv3.png
+SuperBoss_GolemB_lv3,23,41,304,293,Superboss/SuperBoss_GolemB_lv3.png
+SuperBoss_GolemD_lv3,13,24,326,308,Superboss/SuperBoss_GolemD_lv3.png
+SuperBoss_Minotaur__Lv3,3,46,345,299,Superboss/SuperBoss_Minotaur__Lv3.png
+SuperBoss_Golem_Lv3,18,45,318,291,Superboss/SuperBoss_Golem_Lv3.png
+SuperBoss_Drake_Lv3,10,26,339,314,Superboss/SuperBoss_Drake_Lv3.png
+SuperBoss_UndeadKnight2G,57,10,269,324,Superboss/SuperBoss_UndeadKnight2G.png
+SuperBoss_UndeadKnight2R,25,77,308,251,Superboss/SuperBoss_UndeadKnight2R.png
+SuperBoss_UndeadKnight2B,47,0,277,337,Superboss/SuperBoss_UndeadKnight2B.png
+SuperBoss_UndeadKnight2D,33,10,305,325,Superboss/SuperBoss_UndeadKnight2D.png

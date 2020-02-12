@@ -1,0 +1,11 @@
+superboss_Shadow,-38,292,427,57,shadow/superboss_Shadow.png
+superboss_Dark_Soldier_Lv4,24,61,303,283,Superboss/superboss_Dark_Soldier_Lv4.png
+superboss_Cyclops_Lv3,55,34,208,308,Superboss/superboss_Cyclops_Lv3.png
+superboss_Lich_King_Lv2,21,3,314,335,Superboss/superboss_Lich_King_Lv2.png
+superboss_Troll_lv3,0,10,300,329,Superboss/superboss_Troll_lv3.png
+superboss_GolemG_lv3,21,46,310,295,Superboss/superboss_GolemG_lv3.png
+superboss_GolemB_lv3,23,41,304,293,Superboss/superboss_GolemB_lv3.png
+superboss_GolemD_lv3,13,24,326,308,Superboss/superboss_GolemD_lv3.png
+superboss_Minotaur__Lv3,3,46,345,299,Superboss/superboss_Minotaur__Lv3.png
+superboss_Golem_Lv3,18,45,318,291,Superboss/superboss_Golem_Lv3.png
+superboss_Drake_Lv3,10,26,339,314,Superboss/superboss_Drake_Lv3.png

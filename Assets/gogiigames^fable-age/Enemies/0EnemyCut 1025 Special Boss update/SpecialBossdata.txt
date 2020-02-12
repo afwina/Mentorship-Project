@@ -1,0 +1,7 @@
+boss_Shadow_large,167,211,197,47,Shadow/boss_Shadow_large.png
+boss_Enchantress,147,60,237,180,SpecialBoss/Witch_Sorceress_Enchantress/boss_Enchantress.png
+boss_Sorceress,175,37,211,212,SpecialBoss/Witch_Sorceress_Enchantress/boss_Sorceress.png
+boss_Witch,141,47,221,193,SpecialBoss/Witch_Sorceress_Enchantress/boss_Witch.png
+boss_KnightB,175,81,216,163,SpecialBoss/Knight/boss_KnightB.png
+boss_KnightG,176,69,210,177,SpecialBoss/Knight/boss_KnightG.png
+boss_KnightR,156,73,238,173,SpecialBoss/Knight/boss_KnightR.png
