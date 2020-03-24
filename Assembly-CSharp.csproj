@@ -62,7 +62,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\cloudOne.cs" />
+    <Compile Include="Assets\Scripts\cloudTwo.cs" />
+    <Compile Include="Assets\Scripts\followTouch.cs" />
     <Compile Include="Assets\Scripts\playerMovement.cs" />
+    <Compile Include="Assets\Scripts\playerShoot.cs" />
+    <Compile Include="Assets\Scripts\projMovement.cs" />
     <None Include="Assets\gogiigames^fable-age\Enemies\0EnemyCut 0923\superbossdata.txt" />
     <None Include="Assets\gogiigames^fable-age\Enemies\0EnemyCut 0916\data_enemy.txt" />
     <None Include="Assets\gogiigames^fable-age\Enemies\0EnemyCut 0916\data_boss.txt" />
